@@ -1,5 +1,5 @@
 
-<!-- ![logo](_media/icon.svg) -->
+![logo](./images/square-logo.svg ':size=250')
 
 # Wasm Network
 
