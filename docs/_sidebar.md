@@ -1,0 +1,5 @@
+- Getting started
+ - [Quick start](/quickstart)
+ - [Writing more pages](/more-pages)
+ - [Custom navbar](/custom-navbar)
+ - [Cover page](/cover)
