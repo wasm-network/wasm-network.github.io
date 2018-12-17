@@ -1,13 +1,9 @@
 
-![logo](./images/square-logo.svg ':size=250')
+![logo](./images/wide-logo.svg ':size=250')
 
 # Wasm Network
 
-> Helping to build the WebAssembly ecosystem
-
-<!-- - Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes -->
+> Building the WebAssembly ecosystem
 
 <!-- <a id="contact-us">Contact Us</a> -->
 [About](/about ':id=about')

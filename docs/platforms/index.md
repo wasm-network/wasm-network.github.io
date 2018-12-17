@@ -1,7 +1,5 @@
 # WebAssembly Platforms
 
-## Web Browsers
-
 ## Dfinity
 
 ## EOS
@@ -11,5 +9,7 @@
 ## Parity
 
 ## Truebit
+
+## Web Browsers
 
 

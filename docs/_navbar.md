@@ -1,3 +1,6 @@
-* [Home](/)
 * [About](/about)
-* [Platforms](/platforms)
+* [Develop](/develop/index.md)
+  * [Rust Language](/develop/rust.md)
+  * [C/C++ Language](/develop/c-language.md)
+  * [AssemblyScript](/develop/assembly-script.md)
+* [Platforms](/platforms/index.md)
