@@ -1,15 +1,23 @@
 # WebAssembly Platforms
 
-## Dfinity
-
 ## EOS
 
 ## Ethereum
 
 ## Parity
 
+## Dfinity
+
+## Holochain
+
 ## Truebit
 
-## Web Browsers
+## Hyperledger Sawtooth
+
+## Web
+
+* Browsers
+* Unity
+* Qt
 
 

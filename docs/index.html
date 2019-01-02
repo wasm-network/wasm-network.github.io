@@ -16,21 +16,26 @@
 	coverpage: true,
     onlyCover: true,
 	loadNavbar: true,
-	loadSidebar: true,
+	loadSidebar: false,
+	autoHeader: true,
 	homepage: 'home.md',
 	name: 'Wasm Network',
+	// logo: '/images/wide-logo.svg',
 	themeColor: '#d46515',
+	search: false,
+	executeScript: true,
 	repo: ''
     }
 
   </script>
-  <script
+  <!-- <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-
+  crossorigin="anonymous"></script> -->
   <script src="//unpkg.com/vue/dist/vue.min.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script> -->
+  <script src="//unpkg.com/prismjs/components/prism-rust.min.js"></script>
   <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
   <script>
 	// hbspt.forms.create({
