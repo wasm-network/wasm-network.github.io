@@ -2,9 +2,14 @@
 
 ## Overview
 
+* "Substrate combines three new technologies: Rust, WebAssembly and Libp2p in order to create a framework that makes building upgradable and efficient."
+* Parity originally created Polkadot with the intention of supporting Wasm smart contracts authored in Rust. The Polkadot codebase was recently split and the foundation code for Wasm contract support has been moved into the Substrate codebase. 
 
 
 ## Links
+* https://substrate.readme.io/
+* https://wiki.parity.io/
+* Evaluate: https://github.com/paritytech/parity-wasm
 * [Github: Substrate](https://github.com/paritytech/substrate)
 * [Why we believe in Wasm as the base layer of decentralised application development](https://www.parity.io/wasm-smart-contract-development/)
 * [Parity WebAssembly Links](https://wiki.parity.io/WebAssembly-Links.html)
